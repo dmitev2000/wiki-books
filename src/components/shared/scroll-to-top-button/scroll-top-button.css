@@ -1,0 +1,7 @@
+.scroll-top-btn {
+  position: fixed !important;
+  right: 25px;
+  bottom: 25px;
+  z-index: 9999;
+  background-color: lightskyblue !important;
+}
